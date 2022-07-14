@@ -12,7 +12,7 @@ __________                  __                       .__
 <hr>
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=BrytanniADJ&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BrytanniADJ&hide=html,css,java,hlsl&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BrytanniADJ&theme=radical">
 </p>
 
 <p align = "center">
