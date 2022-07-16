@@ -32,3 +32,29 @@
 </p>
 
 <img src="https://github.com/BrytanniADJ/BrytanniADJ/blob/main/images/skyline.png"/>
+
+## Skills
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /">
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img width="50px" height="50px" src="https://github.com/BrytanniADJ/BrytanniADJ/blob/main/images/renpy_logo.png">
+</div>
+
+<details>
+
+## [Projeto integrador](https://github.com/SenacProgWeb7Lagoas/projetointegrador)
+
+<img width="100px" height="100px" src="https://github.com/BrytanniADJ/BrytanniADJ/blob/main/images/projeto_integrador.png">
+
+## Nueva Eldarya
+
+<img width="100px" height="100px" src="https://github.com/BrytanniADJ/BrytanniADJ/blob/main/images/nueva_eldarya.png">
+
+## Calculadora
+### [Site Calculadora](https://brytanniadj.github.io/situa-o_calculadora/")
+### [Repositório Github](https://github.com/BrytanniADJ/situa-o_calculadora)
+
+<img width="100px" height="100px" src="https://github.com/BrytanniADJ/BrytanniADJ/blob/main/images/Calculadora.png">
