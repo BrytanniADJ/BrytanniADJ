@@ -47,14 +47,14 @@
 
 ## [Projeto integrador](https://github.com/SenacProgWeb7Lagoas/projetointegrador)
 
-<img width="100px" height="100px" src="https://github.com/BrytanniADJ/BrytanniADJ/blob/main/images/projeto_integrador.png">
+<img width="200px" height="250px" src="https://github.com/BrytanniADJ/BrytanniADJ/blob/main/images/projeto_integrador.png">
 
 ## Nueva Eldarya
 
-<img width="100px" height="100px" src="https://github.com/BrytanniADJ/BrytanniADJ/blob/main/images/nueva_eldarya.png">
+<img width="200px" height="250px" src="https://github.com/BrytanniADJ/BrytanniADJ/blob/main/images/nueva_eldarya.png">
 
 ## Calculadora
-### [Site Calculadora](https://brytanniadj.github.io/situa-o_calculadora/")
+### [Site Calculadora](https://brytanniadj.github.io/situa-o_calculadora)
 ### [Repositório Github](https://github.com/BrytanniADJ/situa-o_calculadora)
 
-<img width="100px" height="100px" src="https://github.com/BrytanniADJ/BrytanniADJ/blob/main/images/Calculadora.png">
+<img width="200px" height="200px" src="https://github.com/BrytanniADJ/BrytanniADJ/blob/main/images/Calculadora.png">
